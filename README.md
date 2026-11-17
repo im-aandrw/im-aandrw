@@ -1,5 +1,3 @@
-# Hi, I'm Andreea 🖤
-
 ## 🌙 About me
 - 4th-year Computer Engineering student at UPC (FIB), Barcelona.
 - Into networks, backend and cybersecurity.
